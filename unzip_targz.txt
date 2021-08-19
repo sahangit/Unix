@@ -1,0 +1,6 @@
+echo How to unzip and untar a tar.gz file
+dir
+gunzip v11.1_linuxx64_expc.tar.gz 
+dir
+tar -xvf v11.1_linuxx64_expc.tar 
+history -a unzip_targz.txt
